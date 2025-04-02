@@ -1,15 +1,7 @@
 # Deuterium
 In this project, Deuterium's potential is assumed to be that of a symmetric Potential Well of $V_0$ depth and $L$ length.
 <p align="center">
-  <img src="potential_well.png" />
+  <img src="potential.png" />
 </p>
 
-$$
-N(a) = \left\{
-\begin{array}{ll}
-n_o & \text{if } A > A_{\text{krit}} \\
-n_o + 2 & \text{if } A = A_{\text{krit}} \\
-n_o + 4 & \text{if } A < A_{\text{krit}} \\
-\end{array}
-\right.
-$$
+The problem is going to be studied for the bound <b>s</b> state, meaning that the angular momentum is zero (<b>l=0</b>). By applying Schrodinger's Equation at both regions A and B:
