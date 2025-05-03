@@ -5,5 +5,5 @@ The course contains 5 different computational projects:
 :one: Deuterium ✔️  
 :two: Neutron Star Crust  
 :three: Radioactive Decay  
-:four: Core scattering  
+:four: Scattering of atoms   
 :five: TOV Equations
