@@ -1,7 +1,8 @@
 # Deuterium
-In this project, Deuterium's potential is assumed to be that of a symmetric Potential Well of $V_0$ depth and $L$ length.
+As presented at "Massen's Notes on Quantum Mechanincs", a simple model for Deuterium's potential is the following:
 <p align="center">
   <img src="potential.png" />
 </p>
 
-The problem is going to be studied for the bound <b>s</b> state, meaning that the angular momentum is zero (<b>l=0</b>). By applying Schrodinger's Equation at both regions A and B:
+Using this spherically symmetric potential well, we can study the s-bounded states (l=0) of Deuterium's atom. By solving Schrodinger's Equation on both A and B areas, we obtain the following wavefunction.
+
