@@ -4,6 +4,6 @@ A collection of projects and computational exercises for the Computational Nucle
 The course contains 5 different computational projects:  
 :one: Deuterium ✔️  
 :two: Neutron Star Crust  
-:three: Radiodating  
+:three: Radioactive Decay 
 :four: Core scattering  
 :five: TOV Equations
